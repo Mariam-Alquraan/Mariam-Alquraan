@@ -56,7 +56,7 @@ Developed an application that allows users to query PDF documents using NLP tech
 ## How to Reach Me
 
 - **LinkedIn:** [https://www.linkedin.com/in/mariam-alquraan/]  
-- **Email:** [mailto:mariamalquraan29@gmail.com]
+- **Email:** [mariamalquraan29@gmail.com]
 
 ---
 
