@@ -60,4 +60,3 @@ Developed an application that allows users to query PDF documents using NLP tech
 
 ---
 
-> This GitHub profile is focused on practical Business Intelligence projects, clear analysis, and business impact.
